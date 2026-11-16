@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Yassine 👋
+# Hey there, I'm Yassine Lamouchi 👋
 
 **Computer Science Student** at Faculté des Sciences de Sfax 🇹🇳
 
