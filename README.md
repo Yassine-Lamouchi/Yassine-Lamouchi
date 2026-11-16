@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there, I'm Yassine 👋
+# Hey there, I'm Yassine Lamouchi 👋
 
-**Computer Science Student** at Faculté des Sciences de Sfax 🇹🇳
+**Computer Science Student** at Faculté des Sciences de Sfax, Tunisia
 
 Building full-stack web apps and sharpening my software engineering skills, one project at a time.
 
