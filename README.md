@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there, I'm Yassine Lamouchi 👋
+# Hey there, I'm Yassine 👋
 
-**Computer Science Student** at Faculté des Sciences de Sfax, Tunisia
+**Computer Science Student** at Faculté des Sciences de Sfax 🇹🇳
 
 Building full-stack web apps and sharpening my software engineering skills, one project at a time.
 
@@ -62,9 +62,9 @@ Building full-stack web apps and sharpening my software engineering skills, one 
 
 <div align="center">
 
-![Yassine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yassine-Lamouchi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Yassine's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Yassine-Lamouchi&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine-Lamouchi&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Yassine-Lamouchi&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
