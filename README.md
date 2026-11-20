@@ -53,7 +53,7 @@ Building full-stack web apps and sharpening my software engineering skills, one 
 | Project            | Description                                                                                    | Stack                           | Links                                                                                                      |
 | ------------------ | ---------------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | **TaskFlow**       | Collaborative Kanban task manager with JWT auth, priority filters, real-time stats & Dark Mode | React · Express · MongoDB · JWT | [Repo](https://github.com/Yassine-Lamouchi/TaskFlow) · [Live Demo](https://taskflow-two-smoky.vercel.app/) |
-| **E-Shop**         | E-commerce platform with product catalog and full CRUD admin panel                             | PHP · MySQL · HTML/CSS          | [Repo](https://github.com/Yassine-Lamouchi/E-Shop)                                                         |
+| **E-Shop**         | E-commerce platform with product catalog and full CRUD admin panel                             | PHP · MySQL · HTML/CSS          | [Repo](https://github.com/Yassine-Lamouchi/E-Shop) · [Live Demo](https://yassine-eshop.infinityfreeapp.com/)                                                        |
 | **Vehicle Rental** | Console app for fleet management, client records & rental operations using OOP principles      | Java · CSV Persistence          | [Repo](https://github.com/Yassine-Lamouchi/ApplicationLocationVehicules)                                   |
 
 ---
